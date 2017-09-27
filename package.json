@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "^7.0.0-alpha.9",
-    "babel-preset-env": "^2.0.0-alpha.7"
+    "babel-cli": "^7.0.0-beta.2",
+    "babel-node": "^7.0.0-beta.2",
+    "babel-preset-env": "^2.0.0-beta.2"
   }
 }
